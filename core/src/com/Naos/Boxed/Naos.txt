@@ -1,0 +1,12 @@
+Naos Engine - Daimon Sewell
+daimonsewell@gmail.com
+
+Current latest version - V5
+
+latest changes
+-	Burrito class works beautifully.
+-	ScreenManager enhancements
+		Screen swithing: Device type query
+-	Rect Animations use burrito class beautifully now
+-	Touch handler needs work to support key pressed
+-	Touch/Pointer locks haven't been implemented yet
